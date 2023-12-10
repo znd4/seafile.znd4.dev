@@ -1,0 +1,3 @@
+name: seafile.znd4.dev
+runtime: go
+description: deploying seafile to linode
